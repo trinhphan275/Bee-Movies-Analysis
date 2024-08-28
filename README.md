@@ -6,7 +6,7 @@ This project analyzes movie data for Bee Movies, an Indian film production compa
 
 ## 📊 Project Structure
 
-- **Dataset:** Movies released in the past three years
+- **Dataset:** Movies released from 2016-2021
 - **Analysis:** Divided into four segments, each exploring different aspects of the data
 
 ## 📁 Files
